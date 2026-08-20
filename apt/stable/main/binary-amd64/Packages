@@ -1,0 +1,16 @@
+Package: ooshare
+Architecture: amd64
+Version: 1.0.1
+Priority: optional
+Maintainer: dhdtech <bot@ooshare.io>
+Installed-Size: 5973
+Filename: ./ooshare_1.0.1_linux_amd64.deb
+Size: 2580328
+MD5sum: e7b940e2fc345cd30a072e146479bca0
+SHA1: 623a7a6c5a4a5a03582b3656655ec406737bd183
+SHA256: 35ab3fc4d68a8cb4cce0d584dd407cc415e4327e25338f58853fbdee6232cb41
+SHA512: 047b5ba39adabdd14b9e9decb38ae5c51313da65cab98203a45503246caad7c3c65eacbb948214355702dea0f0d567a16edab61e52ad4b43be2592e1ef01d704
+Homepage: https://ooshare.io
+Description: Only Once Share CLI — one-time secret sharing from the terminal
+Architecture-Variant: amd64v1
+
