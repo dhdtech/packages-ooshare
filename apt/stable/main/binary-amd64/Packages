@@ -30,3 +30,19 @@ Homepage: https://ooshare.io
 Description: Only Once Share CLI — one-time secret sharing from the terminal
 Architecture-Variant: amd64v1
 
+Package: ooshare
+Architecture: amd64
+Version: 1.0.3
+Priority: optional
+Maintainer: dhdtech <bot@ooshare.io>
+Installed-Size: 5973
+Filename: ./ooshare_1.0.3_linux_amd64.deb
+Size: 2580190
+MD5sum: 6951cb322bf47615d0e3fa9c668a4b87
+SHA1: 03f6da3cfcdb3a60eb25e557b2beaea2c2a6f54d
+SHA256: 51e60e7223f12f80d0e115551dcb87b2203f9badb3700870f72d25cf74b241aa
+SHA512: 2e24f2d7f51bd6c151d3ac261be27c3d2d094e11c3ba177a5144d610527310817d555b725058e5cbff8fc8e972382bc93dc012ddd3ed8dae16e35916691f4edd
+Homepage: https://ooshare.io
+Description: Only Once Share CLI — one-time secret sharing from the terminal
+Architecture-Variant: amd64v1
+
